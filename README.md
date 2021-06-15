@@ -1,15 +1,8 @@
 ## Welcome to GitHub Pages
 
-<<<<<<< HEAD
 [Module 2 Solution HERE](https://evanmarshalsey.github.io/coursera-test/module2-solution/)
 [Module 3 Solution HERE](https://evanmarshalsey.github.io/coursera-test/module3-solution/)
 [Module 4 Solution HERE](https://evanmarshalsey.github.io/coursera-test/module4-solution/)
-=======
-Module 1 Solution ->
-Module 2 Solution -> https://evanmarshalsey.github.io/coursera-test/module2-solution/
-Module 3 Solution -> https://evanmarshalsey.github.io/coursera-test/module3-solution/
-Module 4 Solution -> https://evanmarshalsey.github.io/coursera-test/module4-solution/
->>>>>>> ac61701d91d04c523edcae97a9dc623fdedfab60
 
 You can use the [editor on GitHub](https://github.com/EvanMarshalsey/coursera-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
