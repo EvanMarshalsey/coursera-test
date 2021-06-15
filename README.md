@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
 
+Module 1 Solution ->
+Module 2 Solution -> https://evanmarshalsey.github.io/coursera-test/module2-solution
+Module 3 Solution -> https://evanmarshalsey.github.io/coursera-test/module3-solution
+Module 4 Solution -> https://evanmarshalsey.github.io/coursera-test/module4-solution
+
 You can use the [editor on GitHub](https://github.com/EvanMarshalsey/coursera-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
