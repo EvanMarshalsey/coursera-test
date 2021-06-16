@@ -3,10 +3,10 @@
   for (var name in names) {  
     var firstLetter = names[name].charAt(0).toLowerCase();
     if (firstLetter == "j") {
-      byeSpeaker(names[name]);
+      byeSpeaker.speak(names[name]);
     } 
     else {
-      helloSpeaker(names[name]);
+      helloSpeaker.speak(names[name]);
     }
    }
 })();
